@@ -1,0 +1,33 @@
+body{
+font-family: 'Comfortaa', cursive;
+background-color:rgb(164, 114, 245);
+}
+.header_div{
+background-color: rgb(255, 210, 128);
+color: rgb(0, 64, 167);
+}
+.header_div p{
+font-family: 'Abel', sans-serif;
+color:rgb(116, 116, 227) ;
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+}
+.main_div button{
+font-family:'Abel', sans-serif;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(225, 192, 4);
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    background-color:rgb(4, 38, 225);
+    line-height:3;
+    text-align: center;
+    text-shadow: 20px 10px 3px black;
+}
